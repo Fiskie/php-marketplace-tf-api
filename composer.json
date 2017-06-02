@@ -1,5 +1,5 @@
 {
-  "name": "fisk/marketplace-api",
+  "name": "fisk/marketplace",
   "type": "library",
   "description": "marketplace.tf web API wrapper",
   "license": "BSD-2-Clause",

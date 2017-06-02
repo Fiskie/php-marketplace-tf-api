@@ -13,6 +13,12 @@ This wrapper does not currently include Partner APIs.
 
 TODO: Runner tests.
 
+## Composer
+
+```
+composer require fisk/marketplace
+```
+
 ## Usage
 
 ```
