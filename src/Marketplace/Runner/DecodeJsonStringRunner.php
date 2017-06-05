@@ -20,6 +20,6 @@ class DecodeJsonStringRunner extends AbstractRunner {
         /**
          * @var $result ResponseInterface
          */
-        return json_decode($result->getBody()->getContents());
+        return json_decode($result->getBody()->getContents(), true);
     }
 }
