@@ -1,4 +1,4 @@
-# Marketplace.tf PHP bindings
+# Marketplace.tf PHP bindings ![Travis](https://api.travis-ci.org/fiskie/php-marketplace-tf-api.svg?branch=master)
 
 Provides bindings for the public Marketplace.tf web APIs. Software design is based on da-mitchell's Steam API bindings.
 
