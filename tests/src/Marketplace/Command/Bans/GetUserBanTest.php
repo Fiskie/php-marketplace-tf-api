@@ -11,7 +11,7 @@ class GetUserBanTest extends TestCase {
      */
     private $instance;
 
-    public function setUp() {
+    public function setUp(): void {
         $this->instance = new GetUserBan("76561198012598620");
     }
 
